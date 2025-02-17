@@ -1,0 +1,211 @@
+B:\User Login and Registration\bin\Debug\net8.0\appsettings.Development.json
+B:\User Login and Registration\bin\Debug\net8.0\appsettings.json
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.staticwebassets.endpoints.json
+B:\User Login and Registration\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+B:\User Login and Registration\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\msvcr90.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlceca40.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlcecompact40.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlceer40EN.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlceme40.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlceqp40.dll
+B:\User Login and Registration\bin\Debug\net8.0\amd64\sqlcese40.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+B:\User Login and Registration\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\msvcr90.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlceca40.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlcecompact40.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlceer40EN.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlceme40.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlceqp40.dll
+B:\User Login and Registration\bin\Debug\net8.0\x86\sqlcese40.dll
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.exe
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.deps.json
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.runtimeconfig.json
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.dll
+B:\User Login and Registration\bin\Debug\net8.0\User Login and Registration.pdb
+B:\User Login and Registration\bin\Debug\net8.0\Azure.Core.dll
+B:\User Login and Registration\bin\Debug\net8.0\Azure.Identity.dll
+B:\User Login and Registration\bin\Debug\net8.0\Humanizer.dll
+B:\User Login and Registration\bin\Debug\net8.0\LightInject.dll
+B:\User Login and Registration\bin\Debug\net8.0\LightInject.Annotation.dll
+B:\User Login and Registration\bin\Debug\net8.0\LightInject.Web.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.OpenApi.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Owin.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+B:\User Login and Registration\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+B:\User Login and Registration\bin\Debug\net8.0\MiniProfiler.dll
+B:\User Login and Registration\bin\Debug\net8.0\MiniProfiler.Shared.dll
+B:\User Login and Registration\bin\Debug\net8.0\Mono.TextTemplating.dll
+B:\User Login and Registration\bin\Debug\net8.0\Newtonsoft.Json.dll
+B:\User Login and Registration\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+B:\User Login and Registration\bin\Debug\net8.0\NPoco.dll
+B:\User Login and Registration\bin\Debug\net8.0\Owin.dll
+B:\User Login and Registration\bin\Debug\net8.0\Semver.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Enrichers.Process.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Enrichers.Thread.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Filters.Expressions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Formatting.Compact.Reader.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Settings.AppSettings.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Sinks.File.dll
+B:\User Login and Registration\bin\Debug\net8.0\Serilog.Sinks.Map.dll
+B:\User Login and Registration\bin\Debug\net8.0\Superpower.dll
+B:\User Login and Registration\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\User Login and Registration\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\User Login and Registration\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.ClientModel.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.CodeDom.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Composition.Convention.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Composition.Hosting.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Composition.Runtime.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Composition.TypedParts.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Drawing.Common.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Memory.Data.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Runtime.Caching.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Security.Permissions.dll
+B:\User Login and Registration\bin\Debug\net8.0\System.Windows.Extensions.dll
+B:\User Login and Registration\bin\Debug\net8.0\Umbraco.Core.dll
+B:\User Login and Registration\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.VC90.CRT\msvcr90.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlceca40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlcecompact40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlceer40EN.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlceme40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlceqp40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x64\native\sqlcese40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.VC90.CRT\msvcr90.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlceca40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlcecompact40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlceer40EN.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlceme40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlceqp40.dll
+B:\User Login and Registration\bin\Debug\net8.0\runtimes\win-x86\native\sqlcese40.dll
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.csproj.AssemblyReference.cache
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.GeneratedMSBuildEditorConfig.editorconfig
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.AssemblyInfoInputs.cache
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.AssemblyInfo.cs
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.csproj.CoreCompileInputs.cache
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.MvcApplicationPartsAssemblyInfo.cs
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.MvcApplicationPartsAssemblyInfo.cache
+B:\User Login and Registration\obj\Debug\net8.0\scopedcss\bundle\User Login and Registration.styles.css
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets.build.json
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets.development.json
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets\msbuild.User Login and Registration.Microsoft.AspNetCore.StaticWebAssets.props
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets\msbuild.User Login and Registration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets\msbuild.build.User Login and Registration.props
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.User Login and Registration.props
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.User Login and Registration.props
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets.pack.json
+B:\User Login and Registration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+B:\User Login and Registration\obj\Debug\net8.0\User Log.0CE57444.Up2Date
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.dll
+B:\User Login and Registration\obj\Debug\net8.0\refint\User Login and Registration.dll
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.pdb
+B:\User Login and Registration\obj\Debug\net8.0\User Login and Registration.genruntimeconfig.cache
+B:\User Login and Registration\obj\Debug\net8.0\ref\User Login and Registration.dll

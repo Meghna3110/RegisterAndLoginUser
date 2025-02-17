@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\User Login and Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\user login and registration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:user login and registration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\service\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:service\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\appdbontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:appdbontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\utility\\verificationstatusenums\\verificationstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:utility\\verificationstatusenums\\verificationstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userlogindto\\userloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userlogindto\\userloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userverificationdto\\userverificationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userverificationdto\\userverificationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userverificationdto\\userverificationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userverificationdto\\userverificationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userdto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userdto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userlogindto\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userlogindto\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\User Login and Registration\\Migrations\\20250108101041_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250108101041_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\migrations\\20250108080435_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:migrations\\20250108080435_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\adminlogindto\\adminloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\adminlogindto\\adminloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\adminlogindto\\adminloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\adminlogindto\\adminloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\User Login and Registration\\Migrations\\20250108073513_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250108073513_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\utility\\marriagestatusenum\\marriagestatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:utility\\marriagestatusenum\\marriagestatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userregistrationdto\\userregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userregistrationdto\\userregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\userregistrationdto\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\userregistrationdto\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|b:\\user login and registration\\dtos\\commonresponsedto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD9C12-54DE-4BE4-A071-89B1398DAAB1}|User Login and Registration.csproj|solutionrelative:dtos\\commonresponsedto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "B:\\User Login and Registration\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:03:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "B:\\User Login and Registration\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIAwwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:25:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User Login and Registration",
+              "DocumentMoniker": "B:\\User Login and Registration\\User Login and Registration.csproj",
+              "RelativeDocumentMoniker": "User Login and Registration.csproj",
+              "ToolTip": "B:\\User Login and Registration\\User Login and Registration.csproj",
+              "RelativeToolTip": "User Login and Registration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T07:59:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "B:\\User Login and Registration\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:24:33.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "B:\\User Login and Registration\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:41:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\User Login and Registration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:02:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AdminRepository.cs",
+              "ToolTip": "B:\\User Login and Registration\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "Repository\\AdminRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:07:50.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "B:\\User Login and Registration\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:48:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "B:\\User Login and Registration\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:44:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Repository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAdminRepository.cs",
+              "ToolTip": "B:\\User Login and Registration\\Repository\\IAdminRepository.cs",
+              "RelativeToolTip": "Repository\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:06:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Service\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Service\\IAdminService.cs",
+              "ToolTip": "B:\\User Login and Registration\\Service\\IAdminService.cs",
+              "RelativeToolTip": "Service\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:09:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Service\\AdminService.cs",
+              "RelativeDocumentMoniker": "Service\\AdminService.cs",
+              "ToolTip": "B:\\User Login and Registration\\Service\\AdminService.cs",
+              "RelativeToolTip": "Service\\AdminService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:10:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserLoginDto\\UserLoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto\\UserLoginResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserLoginDto\\UserLoginResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto\\UserLoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:36:11.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerificationStatusEnum.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Utility\\VerificationStatusEnums\\VerificationStatusEnum.cs",
+              "RelativeDocumentMoniker": "Utility\\VerificationStatusEnums\\VerificationStatusEnum.cs",
+              "ToolTip": "B:\\User Login and Registration\\Utility\\VerificationStatusEnums\\VerificationStatusEnum.cs",
+              "RelativeToolTip": "Utility\\VerificationStatusEnums\\VerificationStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:57:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbontext.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\AppDbontext.cs",
+              "RelativeDocumentMoniker": "AppDbontext.cs",
+              "ToolTip": "B:\\User Login and Registration\\AppDbontext.cs",
+              "RelativeToolTip": "AppDbontext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:52:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserVerificationResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserVerificationDto\\UserVerificationResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserVerificationDto\\UserVerificationResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserVerificationDto\\UserVerificationResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserVerificationDto\\UserVerificationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:23:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserVerificationRequestDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserVerificationDto\\UserVerificationRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserVerificationDto\\UserVerificationRequestDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserVerificationDto\\UserVerificationRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UserVerificationDto\\UserVerificationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:23:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserDto\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto\\UserResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserDto\\UserResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:05:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRequestDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserDto\\UserRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto\\UserRequestDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserDto\\UserRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto\\UserRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:00:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserLoginRequestDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserLoginDto\\UserLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto\\UserLoginRequestDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserLoginDto\\UserLoginRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto\\UserLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:35:46.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Model\\UserModel.cs",
+              "ToolTip": "B:\\User Login and Registration\\Model\\UserModel.cs",
+              "RelativeToolTip": "Model\\UserModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:42:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250108101041_second.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Migrations\\20250108101041_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250108101041_second.cs",
+              "ToolTip": "B:\\User Login and Registration\\Migrations\\20250108101041_second.cs",
+              "RelativeToolTip": "Migrations\\20250108101041_second.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:10:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250108080435_first.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Migrations\\20250108080435_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250108080435_first.cs",
+              "ToolTip": "B:\\User Login and Registration\\Migrations\\20250108080435_first.cs",
+              "RelativeToolTip": "Migrations\\20250108080435_first.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:04:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "Model\\Admin.cs",
+              "ToolTip": "B:\\User Login and Registration\\Model\\Admin.cs",
+              "RelativeToolTip": "Model\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:38:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminLoginResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\AdminLoginDto\\AdminLoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AdminLoginDto\\AdminLoginResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\AdminLoginDto\\AdminLoginResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AdminLoginDto\\AdminLoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:21:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLoginRequestDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\AdminLoginDto\\AdminLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AdminLoginDto\\AdminLoginRequestDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\AdminLoginDto\\AdminLoginRequestDto.cs",
+              "RelativeToolTip": "DTOs\\AdminLoginDto\\AdminLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:18:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250108073513_first.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Migrations\\20250108073513_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250108073513_first.cs",
+              "ToolTip": "B:\\User Login and Registration\\Migrations\\20250108073513_first.cs",
+              "RelativeToolTip": "Migrations\\20250108073513_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:35:13.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MarriageStatusEnum.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\Utility\\MarriageStatusEnum\\MarriageStatusEnum.cs",
+              "RelativeDocumentMoniker": "Utility\\MarriageStatusEnum\\MarriageStatusEnum.cs",
+              "ToolTip": "B:\\User Login and Registration\\Utility\\MarriageStatusEnum\\MarriageStatusEnum.cs",
+              "RelativeToolTip": "Utility\\MarriageStatusEnum\\MarriageStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:00:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRegistrationResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserRegistrationDto\\UserRegistrationResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegistrationDto\\UserRegistrationResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserRegistrationDto\\UserRegistrationResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegistrationDto\\UserRegistrationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:20:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRegistrationRequestDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\UserRegistrationDto\\UserRegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegistrationDto\\UserRegistrationRequestDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\UserRegistrationDto\\UserRegistrationRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegistrationDto\\UserRegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:14:20.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\User Login and Registration\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "B:\\User Login and Registration\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T08:49:05.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "B:\\User Login and Registration\\DTOs\\CommonResponseDto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CommonResponseDto\\ResponseDto.cs",
+              "ToolTip": "B:\\User Login and Registration\\DTOs\\CommonResponseDto\\ResponseDto.cs",
+              "RelativeToolTip": "DTOs\\CommonResponseDto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:29:23.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

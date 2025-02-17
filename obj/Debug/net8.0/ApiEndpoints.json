@@ -1,0 +1,161 @@
+[
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.AdminController",
+    "Method": "Login",
+    "RelativePath": "api/Admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminLoginDto",
+        "Type": "User_Login_and_Registration.DTOs.AdminLoginDto.AdminLoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.AdminController",
+    "Method": "VerifyUser",
+    "RelativePath": "api/Admin/verifyUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userVerificationDto",
+        "Type": "User_Login_and_Registration.DTOs.UserVerificationDto.UserVerificationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "DeleteUserByUserId",
+    "RelativePath": "api/User/DeleteUserByUserId/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "EditUserByUserId",
+    "RelativePath": "api/User/EditUserByUserId/{userId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userRequestDto",
+        "Type": "User_Login_and_Registration.DTOs.UserDto.UserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "GetUserByDOB",
+    "RelativePath": "api/User/GetUserByDOB/{dob}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dob",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "GetUserByEmailId",
+    "RelativePath": "api/User/GetUserByEmailId/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "GetUserByUserId",
+    "RelativePath": "api/User/GetUserByUserId/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "GetUserList",
+    "RelativePath": "api/User/GetUserList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "LoginUser",
+    "RelativePath": "api/User/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginRequestDto",
+        "Type": "User_Login_and_Registration.DTOs.UserLoginDto.UserLoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User_Login_and_Registration.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/User/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequestDto",
+        "Type": "User_Login_and_Registration.DTOs.UserDto.UserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
